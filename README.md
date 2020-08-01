@@ -25,3 +25,5 @@ This repository contains the solution to "Hello World" in all of the Most-Wanted
 23. Objective-C
 24. Perl
 25. VBA
+26. XML
+27. F#
